@@ -1,8 +1,4 @@
 # rocoTestingExample
-# rocoTestingExample
-# rocoTestingExample
-
-# rocoTestingExample
 
 # How to run the project:
 
@@ -13,17 +9,21 @@
 5. Run Command : npm run cypress 
 6. It will open the cypress window as below 
 
-/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.22.31 PM.png
+![alt text](/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.22.31 PM.png)
+
+
 
 7. Select “Run All specs” see screenshot below
 
-/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.22.42 PM.png
+![alt text](/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.22.42 PM.png)
+
 
 8. It will open the cypress execution window and execute all test cases. 
 9. See the test’s cases running on the window
 10. See the results of test case on the left side as below
 
-/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.24.33 PM.png
+![alt text](/Users/hchoudhari/Desktop/Screen Shot 2019-10-15 at 8.24.33 PM.png)
+
 
 ------------
 
