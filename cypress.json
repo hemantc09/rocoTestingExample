@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://start.ro.co/",
+    "watchForFileChanges": false,
+    "chromeWebSecurity": false
+}
